@@ -1,0 +1,8 @@
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\obj\Debug\StatitisticsMohamedOsama.csproj.AssemblyReference.cache
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\obj\Debug\StatitisticsMohamedOsama.csproj.SuggestedBindingRedirects.cache
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\obj\Debug\StatitisticsMohamedOsama.csproj.CoreCompileInputs.cache
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\bin\Debug\StatitisticsMohamedOsama.exe.config
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\bin\Debug\StatitisticsMohamedOsama.exe
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\bin\Debug\StatitisticsMohamedOsama.pdb
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\obj\Debug\StatitisticsMohamedOsama.exe
+D:\SwE\C#\StatitisticsMohamedOsama\StatitisticsMohamedOsama\obj\Debug\StatitisticsMohamedOsama.pdb
